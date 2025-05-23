@@ -1,0 +1,28 @@
+[
+  {
+    "company_name": "INDIAN OVERSEAS BANK",
+    "job_title": "Local Bank Officer (JMGS I)",
+    "number_of_openings": 400,
+    "reservation_details": {
+      "SC": 60,
+      "ST": 30,
+      "OBC": 108,
+      "EWS": 40,
+      "UR (GEN)": 162,
+      "PwBD": {
+        "VI": 4,
+        "HI": 4,
+        "OC": 4,
+        "ID": 4
+      }
+    },
+    "location": "Multiple States (Tamil Nadu, Odisha, Maharashtra, Gujarat, West Bengal, Punjab)",
+    "qualifications_required": "Graduation in any discipline from a recognized university",
+    "skills_required": "not mentioned",
+    "age_limit": "20-30 years (with relaxations for reserved categories)",
+    "salary": "Basic pay scale: ₹48,480-2000/7-62,480-2340/2-67,160-2680/7-85,920 + allowances",
+    "application_deadline": "31.05.2025",
+    "mode_of_application": "Online through www.iob.in",
+    "contact_details": "not mentioned"
+  }
+]
