@@ -1,0 +1,71 @@
+[
+    {
+        "Company name": "Indian Overseas Bank",
+        "Job title": "Local Bank Officers (JMGS - I)",
+        "Number of openings": "400",
+        "Reservation details": {
+            "Tamil Nadu": {
+                "Total": 260,
+                "SC": 39,
+                "ST": 19,
+                "OBC": 70,
+                "EWS": 26,
+                "UR": 106,
+                "PwBD": {"VI": 2, "HI": 2, "OC": 3, "ID": 3}
+            },
+            "Odisha": {
+                "Total": 10,
+                "SC": 1,
+                "ST": 1,
+                "OBC": 3,
+                "EWS": 1,
+                "UR": 4,
+                "PwBD": {"VI": 0, "HI": 1, "OC": 0, "ID": 0}
+            },
+            "Maharashtra": {
+                "Total": 45,
+                "SC": 7,
+                "ST": 3,
+                "OBC": 12,
+                "EWS": 5,
+                "UR": 18,
+                "PwBD": {"VI": 0, "HI": 0, "OC": 1, "ID": 1}
+            },
+            "Gujarat": {
+                "Total": 30,
+                "SC": 5,
+                "ST": 2,
+                "OBC": 8,
+                "EWS": 3,
+                "UR": 12,
+                "PwBD": {"VI": 0, "HI": 1, "OC": 0, "ID": 0}
+            },
+            "West Bengal": {
+                "Total": 34,
+                "SC": 5,
+                "ST": 3,
+                "OBC": 9,
+                "EWS": 3,
+                "UR": 14,
+                "PwBD": {"VI": 1, "HI": 0, "OC": 0, "ID": 0}
+            },
+            "Punjab": {
+                "Total": 21,
+                "SC": 3,
+                "ST": 2,
+                "OBC": 6,
+                "EWS": 2,
+                "UR": 8,
+                "PwBD": {"VI": 1, "HI": 0, "OC": 0, "ID": 0}
+            }
+        },
+        "Location": "Respective states as listed",
+        "Qualifications required": "A Degree (Graduation) in any discipline from a University recognized by the Govt. of India or any equivalent qualification recognized by the Central Government.",
+        "Skills required": "Proficiency in local language (reading, writing, speaking)",
+        "Age limit": "Minimum 20 years, Maximum 30 years (as of 01.05.2025)",
+        "Salary or compensation details": "Basic: 48480-2000/7-62480-2340/2-67160-2680/7-85920",
+        "Application deadline": "31.05.2025",
+        "Mode of application": "Online",
+        "Contact details": "Not mentioned"
+    }
+]
